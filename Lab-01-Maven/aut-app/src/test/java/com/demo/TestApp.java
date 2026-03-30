@@ -64,7 +64,7 @@ public class TestApp {
     @Test
     void testViewTickets() throws Exception {
 
-        driver.get("http://localhost:6080");
+        driver.get("http://localhost:8080");
         Thread.sleep(2000);
 
         // Login
